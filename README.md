@@ -1,5 +1,3 @@
-# Weather-App
+#Tic-Tac-Toe
 
-
-Blue Gradient Square Circle with gradient Blue Gradient Square Circle with gradient Blue Gradient Square.
-Build a web page that fetches weather data from a weather API based on the user's location or a user-inputted location. Display the current weather conditions, temperature, and other relevant information.
+To build a tic-tac-toe web application, you can use HTML, CSS, and JavaScript. By implementing functions to handle user clicks, track game state, and check for winning conditions, you can create an interactive and engaging tic-tac-toe game. With these technologies and functionalities, users can play against each other or against an AI opponent, aiming to get three markers in a row to win the game.
